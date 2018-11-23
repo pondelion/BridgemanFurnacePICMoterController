@@ -10,5 +10,5 @@ PC側からモーターをPICで制御しブリッジマン炉内に吊り下げ
 - 時間-温度/位置シーケンス設定に従うように自動高さ調整  
 - モーターとシンクロした3Dビジュアライザー  
   
-![furnace2](https://en.wikipedia.org/wiki/Bridgman%E2%80%93Stockbarger_technique#/media/File:Bridgman-Stockbarger-Technique.svg)
+![furnace2](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bridgman-Stockbarger-Technique.svg/700px-Bridgman-Stockbarger-Technique.svg.png)
 https://en.wikipedia.org/wiki/Bridgman%E2%80%93Stockbarger_technique
