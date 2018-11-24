@@ -4,7 +4,8 @@ Bridgeman furnace control program using moter through PIC with 3D synchronized V
   
 ![furnace](https://github.com/pondelion/BridgemanFurnacePICMoterController/blob/master/gallary/furnace2.gif?raw=true)
   
-PC側からモーターをPICで制御しブリッジマン炉内に吊り下げ/上げを行うお蔵入りプログラム。  
+PC側からモーターをPICで制御しブリッジマン炉内に吊り下げ/上げを行う単結晶作成＋アニーリング用お蔵入りプログラム。
+UIはSQUID(超伝導量子干渉計)のプログラムを真似た。  
   
 - ブリッジマン炉内部の温度勾配考慮  
 - 時間-温度/位置シーケンス設定に従うように自動高さ調整  
